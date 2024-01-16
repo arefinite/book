@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "title": "Book 1",
+        "author": "author 1",
+        "description": "this is demo book description 1",
+        "publishYear": 2020
+
+    },
+    {
+        "id":2,
+        "title": "Book 2",
+        "author": "author 2",
+        "description": "this is demo book description 2",
+        "publishYear": 2021
+
+    },
+    {
+        "id":3,
+        "title": "Book 3",
+        "author": "author 3",
+        "description": "this is demo book description 3",
+        "publishYear": 2022
+
+    },
+    {
+        "id":4,
+        "title": "Book 4",
+        "author": "author 4",
+        "description": "this is demo book description 4",
+        "publishYear": 2023
+
+    },
+    {
+        "id":5,
+        "title": "Book 5",
+        "author": "author 5",
+        "description": "this is demo book description 5",
+        "publishYear": 2024
+
+    }
+]
